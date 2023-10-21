@@ -1,4 +1,4 @@
-👋 Hi, I’m @MeltemPinar                       
+👋 Hi, I’m @MeltemPinar (Meltem Pınar)                      
 🌟 I'm a Front-End Developer & React Software Developer.                   
 🤝 I value teamwork and have strong communication skills.                 
 📚 I'm always open to learning and self-improvement.                   
