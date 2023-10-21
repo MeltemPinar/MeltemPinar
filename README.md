@@ -1,5 +1,7 @@
 👋 Hi, I’m @MeltemPinar (Meltem Pınar)                      
-🌟 I'm a Front-End Developer & React Software Developer.                   
+🌟 I'm a Front-End Developer & React Software Developer.          
+🚀 I have professional-level knowledge of HTML, CSS, JavaScript, and React.       
+🛠️ Proficient in using Git and effective version control.      
 🤝 I value teamwork and have strong communication skills.                 
 📚 I'm always open to learning and self-improvement.                   
 ⏱️ I focus on being reliable and efficient.
