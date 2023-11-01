@@ -10,6 +10,7 @@
 MeltemPinar/MeltemPinar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://github.com/your-username/ikon.png" alt="GitHub İkonu">
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white}" />
+
 
 
