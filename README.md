@@ -10,5 +10,6 @@
 MeltemPinar/MeltemPinar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![GitHub İkonu](https://github.com/your-username/ikon.png)
+<img src="https://github.com/your-username/ikon.png" alt="GitHub İkonu">
+
 
